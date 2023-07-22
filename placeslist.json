@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "McDonalds",
+        "description": "Fast food, soft drinks, juices and icecream restaurant",
+        "logo": "https://www.nicepng.com/png/detail/848-8489179_mcdonalds-clipart-mcdonalds-logo-mcdonalds-food-funny-memes.png",
+        "phone": "+97168767876",
+        "email": "info@saa-mcdonalds.com",
+        "location": "R1",
+        "type":"Food & Drinks"
+    },
+    {
+        "id": 2,
+        "name": "Burger King",
+        "description": "American burger restaurant",
+        "logo": "https://pngimg.com/d/burger_king_PNG16.png",
+        "phone": "+97168767876",
+        "email": "info@saa-burgerking.com",
+        "location": "R2",
+        "type":"Food & Drinks"
+    },
+    {
+        "id": 3,
+        "name": "Subway",
+        "description": "Fast food, soft drinks, juices and icecream",
+        "logo": "https://www.pngitem.com/pimgs/m/20-202186_subway-14-0-0-0-icon-transparent-subway.png",
+        "phone": "+97168767876",
+        "email": "info@saa-subway.com",
+        "location": "R3",
+        "type":"Food & Drinks"
+    },
+    {
+        "id": 4,
+        "name": "Starbucks",
+        "description": "Coffee",
+        "logo": "https://logos-download.com/wp-content/uploads/2016/03/Starbucks_Logo_1992.png",
+        "phone": "+97168767876",
+        "email": "info@saa-starbucks.com",
+        "location": "R4",
+        "type":"Food & Drinks"
+    },
+    {
+        "id": 5,
+        "name": "Dunkin Donuts",
+        "description": "Coffee and Donuts",
+        "logo": "https://seeklogo.com/images/D/dunkin-donuts-logo-1E269BA8F1-seeklogo.com.png",
+        "phone": "+97168767876",
+        "email": "info@saa-dunkin.com",
+        "location": "R5",
+        "type":"Food & Drinks"
+    },
+    {
+        "id": 6,
+        "name": "Costa Cafe",
+        "description": "Coffee Shop",
+        "logo": "https://logos-download.com/wp-content/uploads/2016/05/Costa_Coffee_logo_logotype.png",
+        "phone": "+97168767876",
+        "email": "info@saa-costa.com",
+        "location": "R6",
+        "type":"Food & Drinks"
+    },
+    {
+        "id": 7,
+        "name": "Duty Free",
+        "description": "Sharjah Airport Duty Free",
+        "logo": "https://seeklogo.com/images/M/mcdonald-s-logo-255A7B5646-seeklogo.com.png",
+        "phone": "+97168767876",
+        "email": "info@saa-mcdonalds.com",
+        "location": "S1",
+        "type":"shopping"
+    },
+    {
+        "id": 8,
+        "name": "Rasasi",
+        "description": "Perfumes Shop",
+        "logo": "https://seeklogo.com/images/M/mcdonald-s-logo-255A7B5646-seeklogo.com.png",
+        "phone": "+97168767876",
+        "email": "info@saa-burgerking.com",
+        "location": "S2",
+        "type":"shopping"
+    },
+    {
+        "id": 9,
+        "name": "Dallmayr",
+        "description": "Fast food, soft drinks, juices and icecream restaurant",
+        "logo": "https://seeklogo.com/images/M/mcdonald-s-logo-255A7B5646-seeklogo.com.png",
+        "phone": "+97168767876",
+        "email": "info@saa-subway.com",
+        "location": "S3",
+        "type":"shopping"
+    },
+    {
+        "id": 10,
+        "name": "Bayara",
+        "description": "Coffee",
+        "logo": "https://seeklogo.com/images/M/mcdonald-s-logo-255A7B5646-seeklogo.com.png",
+        "phone": "+97168767876",
+        "email": "info@saa-starbucks.com",
+        "location": "S4",
+        "type":"shopping"
+    },
+    {
+        "id": 11,
+        "name": "Hudson News",
+        "description": "Coffee and Donuts",
+        "logo": "https://seeklogo.com/images/M/mcdonald-s-logo-255A7B5646-seeklogo.com.png",
+        "phone": "+97168767876",
+        "email": "info@saa-dunkin.com",
+        "location": "S5",
+        "type":"shopping"
+    },
+    {
+        "id": 12,
+        "name": "Bijoux Terner",
+        "description": "Fast food, soft drinks, juices and icecream restaurant",
+        "logo": "https://seeklogo.com/images/M/mcdonald-s-logo-255A7B5646-seeklogo.com.png",
+        "phone": "+97168767876",
+        "email": "info@saa-costa.com",
+        "location": "S6",
+        "type":"shopping"
+    },
+    {
+        "id": 13,
+        "name": "Kids Zone",
+        "description": "Multi activities & games",
+        "logo": "https://w1.pngwing.com/pngs/898/944/png-transparent-kids-logo-child-kids-club-idea-furniture-club-kids-text-yellow-thumbnail.png",
+        "phone": "+97168767876",
+        "email": "info@saa-mcdonalds.com",
+        "location": "O1",
+        "type":"others"
+    },
+    {
+        "id": 14,
+        "name": "Reading Zone",
+        "description": "Various books from around the world",
+        "logo": "https://w7.pngwing.com/pngs/283/876/png-transparent-book-book-angle-comic-book-material-thumbnail.png",
+        "phone": "+97168767876",
+        "email": "info@saa-subway.com",
+        "location": "O2",
+        "type":"others"
+    },
+    {
+        "id": 15,
+        "name": "Sleeping Zone",
+        "description": "A space with a lot of sleeping chairs",
+        "logo": "https://w7.pngwing.com/pngs/275/939/png-transparent-table-chaise-longue-chair-bench-fauteuil-beach-chairs-angle-furniture-landscape-thumbnail.png",
+        "phone": "+97168767876",
+        "email": "info@saa-burgerking.com",
+        "location": "O3",
+        "type":"others"
+    }
+]
